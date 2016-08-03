@@ -1,16 +1,28 @@
-typography_spectrum: 0.4745396899525076
+title: nostalgic bytes
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9195459
   brandStrength: 0.938101883046329
-  lightness: 0.9850726332515478
-  saturation: 0.9195459100883454
-  rhythmicContrast: 0.5845104046165943
+  lightness: 0.8315412
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.3876604868564755
-name: nostalgic bytes
-title: nostalgic bytes
+  rhythmicContrast: 0.6451613
+typography_spectrum: 0.4745396899525076
 description: where dead pixels get resurrected (not really)
+layout_spectrum: 1
+name: nostalgic bytes
