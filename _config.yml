@@ -6,9 +6,10 @@ color:
   saturation: 0.9195459100883454
   rhythmicContrast: 0.5845104046165943
   brandColors:
-    - '#6083FB'
-    - '#C74F11'
-    - '#000000'
-    - '#7BD434'
-    - '#FBBDB0'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: nostalgic bytes
+title: nostalgic bytes
