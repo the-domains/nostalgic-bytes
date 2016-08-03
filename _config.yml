@@ -1,4 +1,3 @@
-layout_spectrum: 0.3876604868564755
 typography_spectrum: 0.4745396899525076
 color:
   brandStrength: 0.938101883046329
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.3876604868564755
 name: nostalgic bytes
 title: nostalgic bytes
+description: where dead pixels get resurrected
