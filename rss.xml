@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nostalgic bytes]]></title>
         <description><![CDATA[nostalgic bytes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nostalgic-bytes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:21:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 13:29:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nostalgic-bytes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3eaefe-63b8-49a8-af87-91d5e5eb09be.png">]]></description>
-            <link>undefinedenthusiastically-grow-high-quality-experiences-without-leadi/index.html</link>
+            <link>https://thegrid.ai/nostalgic-bytes/enthusiastically-grow-high-quality-experiences-without-leadi/index.html</link>
             <guid isPermaLink="false">3279273b-bc90-4423-b3f6-4de3f2337656</guid>
-            <pubDate>Wed, 03 Aug 2016 13:21:48 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 13:29:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
